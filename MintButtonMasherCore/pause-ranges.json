@@ -1,0 +1,14 @@
+﻿{
+	"KeySpring": {
+		"min": 40,
+		"max": 450
+	},
+	"PressedKey": {
+		"min": 10,
+		"max": 200
+	},
+	"AuctionSearch": {
+		"min": 1000,
+		"max": 3000
+	}
+}
